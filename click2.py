@@ -1,1 +1,1 @@
-def click(): print("click me") click()  
+def show(): print("newscreen") show()  
