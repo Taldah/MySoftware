@@ -1,3 +1,3 @@
 def show(): 
-  print("newscreen") 
+  print("NewWorld") 
 show()  
