@@ -1,3 +1,3 @@
 def show(): 
-  print("Good noon") 
+  print("Good afternoon") 
 show()  
